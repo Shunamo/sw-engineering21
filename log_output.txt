@@ -1,0 +1,23 @@
+github repository: https://github.com/Shunamo/sw-engineering21.git
+
+[Suhyun Kim] Fri May 9 12:22:27 2025 +0900 fix : Requirement List 698b1b5
+[Suhyun Kim] Fri May 9 12:11:45 2025 +0900 Merge pull request #9 from Shunamo/Shunamo d15e139
+[Suhyun Kim] Fri May 9 12:10:54 2025 +0900 feat: finalize all use cases and docks f08708c
+[Suhyun Kim] Fri May 9 12:02:34 2025 +0900 Merge pull request #8 from Shunamo/Shunamo a521a3b
+[Suhyun Kim] Fri May 9 12:00:25 2025 +0900 docs : description, requirements list 5b3b1b6
+[diarrheaq] Fri May 9 00:29:13 2025 +0900 1 fec08ec
+[박지원] Fri May 9 00:18:20 2025 +0900 Merge pull request #6 from Shunamo/05ovo2e feae10f
+[05ovo2e] Fri May 9 00:11:31 2025 +0900 update: requirement list & descriptions 30e5adb
+[Suhyun Kim] Thu May 8 16:50:21 2025 +0900 Merge pull request #5 from Shunamo/Shunamo ba7e383
+[Suhyun Kim] Thu May 8 16:44:53 2025 +0900 feat : 외부 서비스 연결 7629f95
+[Suhyun Kim] Thu May 8 16:42:10 2025 +0900 feat : 자전거 예약 대기 기능 af992a4
+[Suhyun Kim] Thu May 8 16:32:39 2025 +0900 feat : 자전거 대여 정보 조회 기능 66bb474
+[SsssYeon] Wed May 7 19:14:26 2025 +0900 Merge pull request #2 from Shunamo/SsssYeon aaa0e2b
+[SsssYeon] Tue May 6 15:42:19 2025 +0900 Case 11,12,13 2c55e41
+[SsssYeon] Tue May 6 15:32:30 2025 +0900 Case 11,12,13 1e60f21
+[SsssYeon] Tue May 6 15:26:46 2025 +0900 Case 11,12,13 70ba2d6
+[박지원] Tue May 6 03:33:57 2025 +0900 Merge pull request #1 from Shunamo/05ovo2e 3dd7b34
+[05ovo2e] Tue May 6 03:31:47 2025 +0900 Add user registration & login use case diagram e3462ec
+[diarrheaq] Thu May 1 18:21:02 2025 +0900 4,5,6,7 usecase daa1576
+[diarrheaq] Thu May 1 16:37:10 2025 +0900 자전거 등록 조회 삭제 기능 usecase bad65a6
+[05ovo2e] Wed Apr 30 22:58:44 2025 +0900 initial commit b51d191
